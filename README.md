@@ -15,7 +15,6 @@
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
-![snake animation](https://github.com/josegab1515/josegab1515/blob/output/github-contribution-grid-snake.svg)
             
           
         
