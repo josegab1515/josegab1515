@@ -1,7 +1,6 @@
 ## Olá!! Eu sou o José Gabriel 
 
-- 🍵 Eu estou estudando Java
-- 🐍 Tenho conhecimentos básicos de Python e ainda estou estudando
+- 🍵 Eu estou estudando HTML, CSS e iniciando JS
 
 <a href="https://github.com/josegab1515/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=josegab1515&show_icons=true&theme=tokyonight" />
