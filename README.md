@@ -1,17 +1,29 @@
-## Olá!! Eu sou o José Gabriel 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🍵 Eu estou estudando HTML, CSS e iniciando JS
+<p align="left"> 
+  Sou estudante de Big Data no Agronegócio, com conhecimentos em desenvolvimento web, programação e
+  análise de dados. Tenho interesse por inovação e soluções que envolvam tecnologia. Gosto de aprender
+  na prática
+</p>
 
-<a href="https://github.com/josegab1515/convoychat">
-  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josegab1515&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+<p align="left">
+  🦄 Linguagens: Python, SQL, Angular, TypeScript, Tailwind CSS
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>
+<p align="left">
+  Vamos conversar, entre em contato comigo 😊
+</p>
 
-            
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrielcity369@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-soares-tec alt="LinkedIn"/></a>
+</p>
+          
+        
+          
+
           
         
           
